@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 燃油计算器"</string>
+    <string name="gas_value">汽油: ¥0</string>
+    <string name="gasoline_mod">汽油: ¥</string>
+    <string name="gasoline_option">汽油</string>
+    <string name="ethanol_mod">乙醇: ¥</string>
+    <string name="etanol_value">乙醇: ¥ 0</string>
+    <string name="ethanol_option">乙醇</string>
+    <string name="choice_label">最好的选择是：</string>
+    <string name="fuel">汽油</string>
+</resources>

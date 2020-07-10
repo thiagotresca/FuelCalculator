@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="gas_value">Gasolina: R$ 0</string>
+    <string name="etanol_value">Etanol: R$ 0</string>
+    <string name="gasoline_mod">Gasolina: R$</string>
+    <string name="ethanol_mod">Etanol: R$</string>
+    <string name="ethanol_option">Etanol</string>
+    <string name="gasoline_option">Gasolina</string>
+    <string name="choice_label">A melhor escolha é:</string>
+    <string name="fuel">Combustível</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="gas_value">Gasoline: $ 0</string>
+    <string name="etanol_value">Ethanol: $ 0</string>
+    <string name="gasoline_mod">Gasoline: $</string>
+    <string name="ethanol_mod">Ethanol: $</string>
+    <string name="gasoline_option">Gasoline</string>
+    <string name="ethanol_option">Ethanol</string>
+    <string name="choice_label">The best choice is:</string>
+    <string name="fuel">Fuel</string>
+</resources>
